@@ -1,0 +1,73 @@
+.body{
+	background-color: DarkGoldenRod;
+
+}
+.h5{
+	background-color:  DarkGoldenRod;
+
+  border-radius: 25px;
+  padding: 0px;
+  border-style: groove;
+}
+.h51{
+
+	background-color:  DarkGoldenRod;
+
+  border-radius: 25px;
+  padding: 0px;
+  border-style: groove;
+}
+.h52{
+
+	background-color:  DarkGoldenRod;
+
+  border-radius: 25px;
+  padding: 0px;
+  border-style: groove;
+}
+
+.hr{
+
+	background-color:  darkorange;
+	height: 40%;
+
+}
+.hr1{
+
+	background-color:  darkorange;
+	
+
+}
+.hr2{
+
+	background-color:  darkorange;
+	
+
+}
+.h4{
+
+	border-style: solid;
+	padding: 0px;
+	width: 150px;
+	text-align: center;
+	background-color:DarkGoldenRod ;
+	 border-radius: 25px;
+}
+.h1{
+
+	border-style: solid;
+	padding: 0px;
+	width: 300px;
+	text-align: center;
+	background-color:DarkGoldenRod ;
+	 border-radius: 25px;
+}
+.la{
+
+	border-style: solid;
+	padding: 0px;
+	width: 160px;
+	text-align: center;
+	background-color:DarkGoldenRod ;
+	 border-radius: 25px;
+}
